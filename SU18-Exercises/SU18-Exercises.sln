@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SU18-Exercises", "SU18-Exercises\SU18-Exercises.csproj", "{C440DCB9-E7D1-4303-B3A5-01B3E4984CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIKUArcade", "..\DIKUArcade\DIKUArcade\DIKUArcade.csproj", "{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaga-Exercise-1", "Galaga-Exercise-1\Galaga-Exercise-1.csproj", "{CFD22A6F-B1B3-4E53-8764-C43D4CDFFEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C440DCB9-E7D1-4303-B3A5-01B3E4984CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C440DCB9-E7D1-4303-B3A5-01B3E4984CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C440DCB9-E7D1-4303-B3A5-01B3E4984CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C440DCB9-E7D1-4303-B3A5-01B3E4984CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD22A6F-B1B3-4E53-8764-C43D4CDFFEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD22A6F-B1B3-4E53-8764-C43D4CDFFEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD22A6F-B1B3-4E53-8764-C43D4CDFFEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD22A6F-B1B3-4E53-8764-C43D4CDFFEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
