@@ -8,7 +8,7 @@ namespace Galaga_Exercise_1 {
             // look at the Window.cs file for possible constructors.
             // We recommend using 500  500 as window dimensions,
             // which is most easily done using a predefined aspect ratio.
-            win = new Window();
+            win = new Window(...);
         }
         
         public void GameLoop() {
